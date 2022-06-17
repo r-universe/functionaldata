@@ -1,0 +1,14 @@
+[
+  {
+    "package": "fdadensity",
+    "oncran": true
+  },
+  {
+    "package": "fdapace",
+    "oncran": true
+  },
+  {
+    "package": "frechet",
+    "oncran": true
+  }
+]
