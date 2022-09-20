@@ -1,5 +1,9 @@
 [
   {
+    "package": "fdaconcur",
+    "oncran": true
+  },
+  {
     "package": "fdadensity",
     "oncran": true
   },
