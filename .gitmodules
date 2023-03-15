@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fdadensity"]
-	path = fdadensity
-	url = https://github.com/functionaldata/tdens
-	shallow = true
-	registered = true
-[submodule "frechet"]
-	path = frechet
-	url = https://github.com/functionaldata/tfrechet
-	shallow = true
-	registered = true
 [submodule "fdaconcur"]
 	path = fdaconcur
 	url = https://github.com/functionaldata/tfdaconcur
 	shallow = true
 	registered = true
+[submodule "fdadensity"]
+	path = fdadensity
+	url = https://github.com/functionaldata/tdens
+	shallow = true
+	registered = true
 [submodule "fdapace"]
 	path = fdapace
 	url = https://github.com/functionaldata/tpace
+	shallow = true
+	registered = true
+[submodule "frechet"]
+	path = frechet
+	url = https://github.com/functionaldata/tfrechet
 	shallow = true
 	registered = true
