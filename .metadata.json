@@ -1,18 +1,18 @@
 [
   {
-    "package": "fdaconcur",
-    "oncran": true
-  },
-  {
     "package": "fdadensity",
     "oncran": true
   },
   {
-    "package": "fdapace",
+    "package": "frechet",
     "oncran": true
   },
   {
-    "package": "frechet",
+    "package": "fdaconcur",
+    "oncran": true
+  },
+  {
+    "package": "fdapace",
     "oncran": true
   }
 ]
