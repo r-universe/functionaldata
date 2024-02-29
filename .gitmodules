@@ -11,6 +11,9 @@
 [submodule "fdapace"]
 	path = fdapace
 	url = https://github.com/functionaldata/tpace
+[submodule "fdarep"]
+	path = fdarep
+	url = https://github.com/functionaldata/tfdarep
 [submodule "frechet"]
 	path = frechet
 	url = https://github.com/functionaldata/tfrechet
